@@ -1,0 +1,19 @@
+---
+---
+/* 导入主题样式 */
+@import "minimal-mistakes";
+
+// 网站标题颜色
+.site-title {
+    color: rgb(159, 76, 218) !important;
+    font-weight: bold;
+  }
+  // 作者bio信息颜色  
+  .author__bio {
+    color: #e85083 !important;
+  }
+  
+  // 作者名字颜色（您已经有的）
+  .author__name {
+    color: rgb(159, 76, 218) !important;
+  }

@@ -1,0 +1,125 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: 欢迎来到鲍雨欣的主页
+email:
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+twitter_username: username
+github_username: username
+minimal_mistakes_skin: default
+search: true
+
+# Build settings
+markdown: kramdown
+# remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
+# Outputting
+permalink: /:categories/:title/
+paginate: 6 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "鲍雨欣"
+  color: "#FF6B9C"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio: "昵称: 鲍鲍、荔枝<br>生日: 2004.07.25 (狮子座)<br>特长: 跳舞、煮面条<br>爱好: 看vlog、过山车、吃汉堡、面包<br>期数：GNZ48 17期生<br>所属队伍：GNZ48 TEAM G<br>应援色: 紫色<br>粉丝名: 小汉堡<br>神秘代码: 893220371"
+  location : "台州, 浙江"
+
+  links:
+    # - label: "2004.07.25"
+    #   # icon: "fas fa-fw fa-link"
+    #   url: ""
+    - label: "微博"
+      icon: "fab fa-fw fab fa-weibo"
+      url: "https://weibo.com/u/7976345954?refer_flag=1008085010_"
+    - label: "抖音"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.douyin.com/user/MS4wLjABAAAAan53sf4Ej_jC7Rk8PRDBDhT4fCW4bkmYLHztyPIo8edIuoR-fu2JV0tCGKM0sJAA?from_tab_name=main"
+    - label: "小红书"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.xiaohongshu.com/user/profile/609146fb000000000101e715?xsec_token=ABJzqawRi1M2N_JPOhkFYYHaYtQ54JK8wDdQVl1dCgoJM%3D&xsec_source=pc_search"
+
+footer:
+  links:
+    - label: "微博"
+      icon: "fab fa-fw fa-weibo"
+      url: "https://weibo.com/u/7976345954?refer_flag=1008085010_"
+    - label: "抖音"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.douyin.com/user/MS4wLjABAAAAan53sf4Ej_jC7Rk8PRDBDhT4fCW4bkmYLHztyPIo8edIuoR-fu2JV0tCGKM0sJAA?from_tab_name=main"
+    - label: "小红书"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.xiaohongshu.com/user/profile/609146fb000000000101e715?xsec_token=ABJzqawRi1M2N_JPOhkFYYHaYtQ54JK8wDdQVl1dCgoJM%3D&xsec_source=pc_search"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: false
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+  
