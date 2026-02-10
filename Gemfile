@@ -5,6 +5,7 @@ source "https://gems.ruby-china.com/"
 gem "minimal-mistakes-jekyll"
 gem 'kramdown-parser-gfm'
 gem "tzinfo-data"
+gem 'wdm'
 # gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!

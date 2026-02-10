@@ -1,11 +1,11 @@
 ---
 title: "鲍鲍的个人介绍网站"
-date: 2025-04-18T15:34:30-04:00
+date: 2025-10-1
 categories:
-  - blog
+  - Blog
 tags:
   - 介绍
-  - information
+
 ---
 <!-- <span style="color:rgb(181, 120, 225);">这是一个鲍雨欣的个人介绍网站，你可以在这里找到各种历史舞台的回放</span> -->
 
