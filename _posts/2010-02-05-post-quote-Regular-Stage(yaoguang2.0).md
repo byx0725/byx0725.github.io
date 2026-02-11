@@ -4,9 +4,7 @@ date: 2025-01-12
 categories:
   - 常规公演
 tags:
-  - 舞台
-  - 大歌
-  - Unit
+  - 全场回放
   - TeamG
 image: /assets/images/bio-photo2.jpg
 ---

@@ -4,9 +4,9 @@ date: 2025-11-16
 categories:
   - 唱歌
 tags:
-  - 舞台
   - 随舞
   - 发言
+  - Focus
 ---
 
 ### [随舞环节(更多请跳转)](https://www.bilibili.com/video/BV1PJywBWEyc)

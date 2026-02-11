@@ -5,9 +5,7 @@ last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
   - 特别公演/大型活动
 tags:
-  - 舞台
   - Unit
-  - standard
 ---
 <span style="color:rgb(181, 120, 225);">SNH48金曲大赏是SNH48 GROUP每年举办的年度音乐盛典，通过粉丝投票评选出最受欢迎的歌曲和表演组合。</span>
 
