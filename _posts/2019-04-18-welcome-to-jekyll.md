@@ -1,24 +1,24 @@
 ---
 title: "鲍鲍的个人介绍网站"
-date: 2026-2-9
+excerpt: "✨ 欢迎来到鲍雨欣的星梦空间"
+date: 2026-02-09
 categories:
   - Blog
 tags:
   - 介绍
+---
+
+
+这里是记录 GNZ48 **鲍雨欣（鲍鲍）**逐梦征途的专属星梦档案馆。网站通过“全场回放”、“成员直拍”、“代役舞台”等精细化标签，全方位聚合了包括《瑶光之迹》、《剧场女神》在内的各类舞台资源。无论是极具震撼力的盛典荣誉，还是温馨真实的直播瞬间，都以标准化的视觉呈现，为每一位“小汉堡”提供最纯净、最直观的沉浸式补档体验。
 
 ---
-<!-- <span style="color:rgb(181, 120, 225);">这是一个鲍雨欣的个人介绍网站，你可以在这里找到各种历史舞台的回放</span> -->
 
-<!-- 欢迎内容区域 -->
-<section class="welcome-section" style="background: linear-gradient(135deg, rgba(181, 120, 225, 0.1) 0%, rgba(255, 255, 255, 0.8) 100%); padding: 2px; border-radius: 15px; margin: 20px 0; border-left: 5px solid rgb(181, 120, 225);">
-    <h2 style="color: rgb(181, 120, 225); text-align: center; margin-bottom: 15px;">✨ 欢迎来到我的小天地！ ✨</h2>
-    <p style="text-align: center; font-size: 1.1em; line-height: 1.3; color: #555;">
-        这里是我的个人角落，分享我的动态、想法和更多精彩内容...
-    </p>
-</section>
+### 📂 如何使用本站
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+* **[按分类查找](/categories/)**：快速定位“剧场公演”、“特别活动”或“直播切片”。
+* **[按标签检索](/tags/)**：精准搜索“代役”、“直拍/Focus”或“大歌”高光时刻。
+* **[关于鲍鲍](/about/)**：了解成员的基本资料与应援信息。
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+> **架构笔记**：本站采用 Jekyll 静态架构构建，所有视频资源均通过标准化 Iframe 技术内置，确保在不同设备上都能获得一致的观看体验。
+
+---

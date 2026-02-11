@@ -19,7 +19,7 @@ tags:
 ### [舞台表演：重生时刻](https://www.bilibili.com/video/BV14s7NzpEct?p=1)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 2em;">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV14s7NzpEct&page=1&high_quality=1&danmaku=1&autoplay=0" 
+  <iframe src="//player.bilibili.com/player.html?bvid=BV14s7NzpEct&p=1&t=1&high_quality=1&danmaku=1&autoplay=0" 
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
           scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
   </iframe>
@@ -33,9 +33,8 @@ tags:
 ### [拉票发言环节](https://www.bilibili.com/video/BV14s7NzpEct?p=2)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 2em;">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV14s7NzpEct&page=2&high_quality=1&danmaku=1&autoplay=0" 
+  <iframe src="//player.bilibili.com/player.html?bvid=BV14s7NzpEct&p=2&t=2&high_quality=1&danmaku=1&autoplay=0" 
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
           scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
   </iframe>
 </div>
-
