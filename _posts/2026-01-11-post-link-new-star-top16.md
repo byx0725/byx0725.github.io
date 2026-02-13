@@ -3,12 +3,10 @@ title: "2025年度潜力新人TOP16"
 excerpt: "SNH48 第十一届青春盛典新人奖励公演，记录鲍鲍作为潜力新人 TOP16 的闪耀舞台。"
 date: 2026-01-11
 categories:
-  - 特别公演/大型活动
+  - 特别公演
 tags:
-
   - 奖励公演
   - Unit
-  - Focus
 ---
 
 <span style="color:rgb(181, 120, 225);">SNH48 第十一届青春盛典新人奖励公演，是属于年度潜力新人 TOP16 的荣耀时刻。</span>

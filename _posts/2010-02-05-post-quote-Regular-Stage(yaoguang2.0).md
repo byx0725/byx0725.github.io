@@ -5,7 +5,7 @@ categories:
   - 常规公演
 tags:
   - 全场回放
-  - TeamG
+  - Team G
 image: /assets/images/bio-photo2.jpg
 ---
 

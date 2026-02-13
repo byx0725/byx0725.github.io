@@ -5,7 +5,7 @@ date: 2026-01-16
 categories:
   - 常规公演
 tags:
-  - TeamN3
+  - Team N3
   - 全场回放
 
 ---
